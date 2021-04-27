@@ -2,4 +2,5 @@
 
 $date = get-date
 
+#comment
 write-host $date
