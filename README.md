@@ -7,6 +7,8 @@ Quick update
 
 Creating dynamic sets for validateSet [link](https://vexx32.github.io/2018/11/29/Dynamic-ValidateSet/)
 
+Config manager [link](https://pwsh.ca/summit21)
+
 ## Books
 
 *Shell of an idea*
