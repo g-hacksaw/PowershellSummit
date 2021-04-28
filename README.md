@@ -11,5 +11,5 @@ Config manager [link](https://pwsh.ca/summit21)
 
 ## Books
 
-*Shell of an idea*
+*Shell of an idea*  
 *Own your career* Don Jones
