@@ -1,14 +1,10 @@
 # Powershell file for PS Summitt and GitHub
-
-$date = get-date
-
-#comment
-write-host $date
+#turning into a list of modules to install and add to my work PC.
 
 install-module -name psreadline
 install-module -name psreleasetools
-    #Need this to make suure it works how you wan it to.
     #Set-PSReadLineOption -PredictionSource history
+    #^Need this added to your $profile to make sure it works how you want it to.^
 
 Install-Module -name oh-my-posh
 Install-Module -name posh-git
