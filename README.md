@@ -23,6 +23,6 @@ https://github.com/franklesniak/KubernetesBook
 [Creating dynamic sets for validateSet](https://vexx32.github.io/2018/11/29/Dynamic-ValidateSet/)
 
 ## Books
-
+Let's try to add more books here in 2024!
 *Shell of an idea*  
 *Own your career* Don Jones
